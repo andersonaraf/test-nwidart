@@ -1,8 +1,9 @@
 ### NWIDART TESTE ###
-
+This is test for studying modules with nwidart
+<b>NWiDart documentation: https://docs.laravelmodules.com/v10/introduction </b>
 #### 1. Clone the repository
 ```
-git clone
+git clone https://github.com/andersonaraf/test-nwidart.git
 ```
 
 #### 2. Install dependencies
